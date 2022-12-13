@@ -40,7 +40,7 @@ Here, we’ll learn to analyze data via various types of plots offered by matplo
 * **[Beginner's Guide](https://www.analyticsvidhya.com/blog/2020/02/beginner-guide-matplotlib-data-visualization-exploration-python)**
 * **[Data Visualisation](https://towardsdatascience.com/data-visualization-for-machine-learning-and-data-science-a45178970be7)**
 
-Don't worry if you don't understand everything now. We will get hands on experience on Exploratory Data Analysis in the next week after we have covered Linear and Logistic Regression.
+Don't worry if you don't understand everything now. It will become more clear once you start implementing them in the assignments.
 
 ## Data Distribution 
 
