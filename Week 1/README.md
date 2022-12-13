@@ -23,7 +23,7 @@ Once you are clear with elementary Python, you should have a basic idea about wh
 
 That's it! You are now ready to get started. 
 
-**[Click Here]()**
+**[Click Here](https://github.com/AnonymousAgarwal/Trapped-In-Neural-Nets/tree/main/Week%201/PythonBasicsDetailed)** for more basic resources for python
 
 ## Data Visualization using Matplotlib
 
