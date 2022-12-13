@@ -23,6 +23,8 @@ Once you are clear with elementary Python, you should have a basic idea about wh
 
 That's it! You are now ready to get started. 
 
+**[Click Here]()**
+
 ## Data Visualization using Matplotlib
 
 Before creating analytical models, a data scientist must develop an understanding of the properties and relationships in a dataset. There are two goals for data exploration and visualization - 
@@ -67,14 +69,6 @@ One of the main advantages of Numpy is that vectorisation using numpy arrays mak
 
 * **[Quickstart](https://numpy.org/doc/stable/user/quickstart.html)**
 * **[Numpy Basics](https://medium.com/dataseries/python-basics-in-numpy-for-machine-learning-data-science-6641c8c3892f)**
-
-
-## Mathematics 
-
-Calculus and Linear Algebra are an integral part of Machine Learning. Let us brush up the basics so that our study of Machine Learning can be smooth and rigorous.
-
-* Calculus - Read **[this](https://towardsdatascience.com/calculus-in-data-science-and-its-uses-3f3e1b5e5b35)** thoroughly and understand the concepts well so that it becomes easy for you to explore the field well.
-* Linear Algebra - Read **[this](https://towardsdatascience.com/boost-your-data-sciences-skills-learn-linear-algebra-2c30fdd008cf)** to get a hang of the concepts that are employed in Machine Learning. Don’t worry if you don’t understand all of it at once. You can skip this for now and maybe read it later as per your need.
 
 ## Useful Links
 
